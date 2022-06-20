@@ -3,7 +3,7 @@ Application resolve flow shop scheduling problems using branch and bound algorit
 It was first attempt to implement MVVM architecture in WPF application ([implementation.jpg](./preview/implementation.jpg)).
 
 # EXE
-* EXE file you can find inside [./bin](./bin).
+* EXE file you can find inside [https://github.com/charJKL/csharp.szeregowanie/releases/tag/v1.0.0](https://github.com/charJKL/csharp.szeregowanie/releases/tag/v1.0.0).
 * Application require .NET Framework 4.6 at least.
 
 # Screens
